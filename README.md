@@ -16,10 +16,10 @@
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-          <br/>![IDA](https://img.shields.io/badge/IDA-00599C?style=flat&logo=databricks&logoColor=white)
-          ![pwndbg](https://img.shields.io/badge/pwndbg-A81D33?style=flat&logo=debugger&logoColor=white)
-          ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
-          ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
+          <br/>
+          <img src="https://img.shields.io/badge/IDA-00599C?style=for-the-badge&logo=databricks&logoColor=white">
+          <img src="https://img.shields.io/badge/pwndbg-A81D33?style=for-the-badge&logo=gnu&logoColor=white">
+          <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
          </div>
     </div>
     <div align= "center">
@@ -30,5 +30,5 @@
     <div align= "center">  </div> 
     </div>
 
-![Bamtoll's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamtoll&show_icons=true&theme=radical) 
+![Juyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bamtoll&show_icons=true&theme=radical) 
     
