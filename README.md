@@ -15,7 +15,11 @@
           <br/><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-          </div>
+          <img src="https://img.shields.io/badge/IDA-1F2430?style=for-the-badge&logoColor=white">
+          <img src="https://img.shields.io/badge/pwndbg-6A0DAD?style=for-the-badge&logoColor=white">
+          <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white">
+          <img src="https://img.shields.io/badge/Packet%20Tracer-0082FC?style=for-the-badge&logoColor=white">
+         </div>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
