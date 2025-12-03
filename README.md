@@ -17,8 +17,8 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
           <br/>
-          <img src="https://img.shields.io/badge/IDA-00599C?style=for-the-badge&logo=databricks&logoColor=white">
-          <img src="https://img.shields.io/badge/pwndbg-A81D33?style=for-the-badge&logo=gnu&logoColor=white">
+          ![IDA](https://img.shields.io/badge/IDA%20Pro-00599C?style=for-the-badge&logoColor=white)
+          ![pwndbg](https://img.shields.io/badge/pwndbg-A81D33?style=for-the-badge&logoColor=white)
           <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
          </div>
     </div>
