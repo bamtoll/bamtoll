@@ -9,7 +9,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://skillicons.dev/icons?i=java" />
+          <img src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjNTM4MkE1IiBkPSJNNDcuNyA5NC44czQuNSAyLjItNC44IDMuM2MtMTAuMyAxLjItNDMuMy42LTQzLjMtNy4xIDAtNi42IDE4LjItNS45IDIzLjEtNi43LTUuMy0uOC0xNi44IDIuOS0xNy42IDkuMi0uOSA2LjkgOS41IDkuMSAyMy44IDkuMSAxMy4yIDAgMTguOS0yLjMgMTguOC02Ljh6Ii8+PC9zdmc+" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
