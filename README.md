@@ -18,6 +18,7 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <br/>
           <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
+          <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
           <br/>
           <img src="https://img.shields.io/badge/IDA-00599C?style=for-the-badge&logoColor=white">
           <img src="https://img.shields.io/badge/pwndbg-A81D33?style=for-the-badge&logoColor=white">
