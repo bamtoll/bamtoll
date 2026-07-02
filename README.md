@@ -22,6 +22,7 @@
           <img src="https://img.shields.io/badge/pwndbg-A81D33?style=for-the-badge&logoColor=white">
           <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
           <br/>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
           <img src="https://custom-icon-badges.demolab.com/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white">
          </div>
     </div>
